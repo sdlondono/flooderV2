@@ -1,0 +1,5 @@
+# TODO
+
+[] - Firebase
+[] - Zustand
+[] - WebRTC
